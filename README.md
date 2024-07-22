@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
