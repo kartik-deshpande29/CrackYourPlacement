@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/kartik-deshpande29/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
