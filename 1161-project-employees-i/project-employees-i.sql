@@ -1,4 +1,4 @@
-select p.project_id, ROUND(SUM(e.experience_years)/COUNT(p.project_id),2) 
+select p.project_id, ROUND(AVG(e.experience_years),2) 
 as average_years
 from Project p
 left join Employee e
