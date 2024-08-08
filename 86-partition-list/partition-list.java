@@ -30,7 +30,7 @@ class Solution {
                 temp = temp.next;
             }
         }
-        head2.next = null;
+        head2.next = null; //last node 
         head1.next = dummy2.next;
         return dummy1.next;
     }
