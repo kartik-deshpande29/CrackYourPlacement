@@ -14,35 +14,15 @@ class Solution {
         
         ListNode prev = null;
         ListNode current = head;
-        ListNode next = null;
+        ListNode Next = null;
 
         while (current != null) {
-            next = current.next;
+            Next = current.next;
             current.next = prev;
             prev = current;
-            current = next;
+            current = Next;
         }
         return prev;
 
-
-
-
-        // ListNode tempHead = head;
-        // ListNode tail = head;
-        // int size = 0;
-        // while (tail.next != null) {
-        //     size++;
-        //     tail = tail.next;
-        // }
-        // int i = 0, j = size;
-
-        // while (j > i) {
-        //     int temp = tempHead.val;
-        //     tempHead.val = tail.val;
-        //     tail.val = temp;
-        //     i++;
-        //     j--;
-        // }
-        // return head;
     }
 }
